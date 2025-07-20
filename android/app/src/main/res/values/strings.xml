@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">pickmekeke</string>
+    <string name="title_activity_main">pickmekeke</string>
+    <string name="package_name">com.pickmekeke.app</string>
+    <string name="custom_url_scheme">com.pickmekeke.app</string>
+</resources>
